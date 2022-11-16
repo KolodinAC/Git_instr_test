@@ -136,3 +136,9 @@
     git branch --merged
 и
     git branch --no-merged
+
+### Как переимновать ветку
+
+Чтобы переименовать ветку, нужно ввести команду:
+
+    git branch -m <new branch_name>
